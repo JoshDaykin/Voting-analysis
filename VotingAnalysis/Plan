@@ -1,0 +1,38 @@
+# VotingAnalysis
+Election results database
+
+Planning:
+
+1)	Use Case 1 - Menu (DONE)
+a)  Print out the intro (DONE)
+b)	Create a list of options (DONE)
+c)	Print out the list of options (DONE)
+d)	Ask the user to choose an option (DONE)
+e)  Check the input is valid and call the relevant function (DONE)
+
+3) Use Case 2 - Accessing the file
+a) Create seperate classes for the different options (DONE)
+b) Create methods for doing something with each option (Done)
+c) Read from the file and display it to the user depending on what they want to see (Done)
+
+3) Constituency Class:
+a) If user searches by constituency read through row and save ones that have the user input in
+b) Display seat winner. Display all party votes
+
+4) Member Class:
+a) Search by MP.
+b) Show matches to all Mp's with that name.
+c) Displays their party, the constituency they ran in and the result of the election.
+
+5) Parties Class:
+a) Search by party
+b) Displays the amount of constituencies the party has won or came second in.
+
+6) Region Class
+a) Search by region
+b) Displays all constituencies in the region selected
+
+
+
+4) Use Case 4 - Make it look nice
+a) Explore GUI elements
